@@ -3,4 +3,4 @@
 
  Follow by the paper 《Super-resolution image visual quality assessment based on structure–texture features》
 
- ![示例图片](image.png)
+ ![示意图](img.png)
